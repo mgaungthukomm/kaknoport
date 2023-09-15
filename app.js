@@ -1,1 +1,16 @@
-var _0x2dc74b=_0x5788;function _0x5788(_0x132ad6,_0xd0dbb){var _0xf09ce8=_0xf09c();return _0x5788=function(_0x578898,_0x58a118){_0x578898=_0x578898-0x123;var _0x87a338=_0xf09ce8[_0x578898];return _0x87a338;},_0x5788(_0x132ad6,_0xd0dbb);}(function(_0x27ce8f,_0x5dfbb9){var _0x1666b0=_0x5788,_0x5d1fd6=_0x27ce8f();while(!![]){try{var _0x40c8ff=-parseInt(_0x1666b0(0x12a))/0x1+parseInt(_0x1666b0(0x128))/0x2+parseInt(_0x1666b0(0x125))/0x3*(-parseInt(_0x1666b0(0x124))/0x4)+parseInt(_0x1666b0(0x12d))/0x5*(parseInt(_0x1666b0(0x123))/0x6)+-parseInt(_0x1666b0(0x126))/0x7+parseInt(_0x1666b0(0x130))/0x8+parseInt(_0x1666b0(0x12f))/0x9;if(_0x40c8ff===_0x5dfbb9)break;else _0x5d1fd6['push'](_0x5d1fd6['shift']());}catch(_0x4e16ce){_0x5d1fd6['push'](_0x5d1fd6['shift']());}}}(_0xf09c,0x215d7));function _0xf09c(){var _0x4588a9=['kaknoport','24395LeClGO','initializeApp','833022MfJNvn','1093464ePwLxi','246frWXoy','15032uYKQzM','6uQDvOH','694120NsptuZ','kaknoport.firebaseapp.com','60918hVvUGF','298623184983','216400GVtcKw','1:298623184983:android:ce167a47b0f7cffe513312'];_0xf09c=function(){return _0x4588a9;};return _0xf09c();}var firebaseConfig={'apiKey':'AIzaSyDmJve9fp8Mv3XgkKmGfv-jz9JmVbUIA-M','authDomain':_0x2dc74b(0x127),'databaseURL':'kaknoport-default-rtdb.firebaseio.com','projectId':_0x2dc74b(0x12c),'storageBucket':'kaknoport.appspot.com','messagingSenderId':_0x2dc74b(0x129),'appId':_0x2dc74b(0x12b)};firebase[_0x2dc74b(0x12e)](firebaseConfig);
+////Do Not Edit Below This
+
+
+    var firebaseConfig = {
+    apiKey: "AIzaSyDmJve9fp8Mv3XgkKmGfv-jz9JmVbUIA-M",
+    authDomain: "kaknoport.firebaseapp.com",
+    databaseURL: "kaknoport-default-rtdb.firebaseio.com",
+    projectId: "kaknoport",
+    storageBucket: "kaknoport.appspot.com",
+    messagingSenderId: "298623184983",
+    appId: "1:298623184983:android:ce167a47b0f7cffe513312"
+  }; 
+ 
+////Do Not Edit Below This
+
+firebase.initializeApp(firebaseConfig);
